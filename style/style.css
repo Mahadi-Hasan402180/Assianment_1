@@ -116,3 +116,15 @@
     text-align: left;
     margin-top: 16px;
 }
+
+.inspiration-container{
+    text-align: center;
+}
+
+.video{
+    margin: 10px 0px;
+    border-radius: 16px;
+    width: 876px;
+    height: 450px;
+
+}
