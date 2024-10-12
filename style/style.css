@@ -316,3 +316,24 @@
 
 
 }
+
+.last-foot{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 36px 140px;
+    
+}
+.last-text{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.icone{
+    margin:8px;
+}
